@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZx2+lYMH+DCdFzJmB7p8WPWIByBChVXVmwJMbjnyzp2Ejz1T7G/jbNQpWcNEeAFTvTRALK0tjLbnahJ04n2DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renatolacerda\\source\\repos\\mcrm\\mcrm\\mcrm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renatolacerda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\renatolacerda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
